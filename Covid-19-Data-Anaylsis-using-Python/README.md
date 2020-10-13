@@ -1,4 +1,4 @@
-# Covid-19-Data-Anaylsis-using-Python - April Master
+# Covid-19-Data-Anaylsis-using-Python 
 
 Project Structure:
 Project on COVID19 Data Analysis using Python is divided into following tasks:
